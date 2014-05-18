@@ -1,0 +1,14 @@
+{
+    "users" : [
+        {
+            "name": "easyrider",
+            "sex": "male",
+            "place": "universe"
+        },
+        {
+            "name": "somebody",
+            "sex": "unknown",
+            "place": "universe"
+        }
+    ]
+}
